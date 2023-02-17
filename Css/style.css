@@ -25,6 +25,7 @@ width: 400px;
 }
 .submit-btn{
     width: 50px;  
+    padding-top: 7px;
 }
 .submit-icon{
     font-size: 30px;
@@ -39,8 +40,6 @@ width: 200px;
 }
 .todo-item{
     background-color: white;
-    width: 450px;
-    
     width: 400px;
     display: flex;
     justify-content: space-between;
